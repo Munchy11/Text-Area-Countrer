@@ -1,5 +1,13 @@
-# CPNT-262-RND2
+### CPNT-262-a2
 
-### - code attributes: https://stackabuse.com/character-counter-for-text-areas-with-vanilla-javascript/
+### Lucas Muenchrath
 
-https://gist.github.com/acidtone/74727a562940ead812f46c1b1b870d19
+###
+
+### code attributes: https://stackabuse.com/character-counter-for-text-areas-with-vanilla-javascript/
+
+- https://gist.github.com/acidtone/74727a562940ead812f46c1b1b870d19
+
+### GitHub Pages:
+
+### Code Journal:
