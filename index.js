@@ -6,7 +6,7 @@ let characterCounter = document.getElementById("text-count");
 const maxNumOfChars = 50;
 
 const countCharacters = () => {
-        let numOfEnteredChars = textArea.value.length;
+    let numOfEnteredChars = textArea.value.length;
     let counter = maxNumOfChars - numOfEnteredChars;
     characterCounter.textContent = counter + "/50";
 
